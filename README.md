@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @DataWars
-- 
+- Aspiring Data Engineer
